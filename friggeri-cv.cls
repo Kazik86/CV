@@ -156,7 +156,7 @@ BoldItalicFont=texgyreheros-bolditalic.otf
 % List environment %
 %%%%%%%%%%%%%%%%%%%%
 
-\setlength{\tabcolsep}{0pt}
+\setlength{\tabcolsep}{1pt}
 \newenvironment{entrylist}{%
   \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}ll}
 }{%
